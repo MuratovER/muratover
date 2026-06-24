@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on networking tg bot
+Solution Architect and Technical Lead with 6+ years of experience, including 2+ years of designing microservices-based distributed systems from scratch. I design fault‑tolerant architectures (99.99% uptime), implement engineering best practices, and lead development teams.
 
 
 ## 🌐 Socials:
